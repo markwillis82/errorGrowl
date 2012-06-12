@@ -16,5 +16,9 @@
   "optionalDependencies": {},
   "engines": {
     "node": "*"
+  },
+  "main":"./bin/errorGrowl",
+  "bin": {
+    "errorGrowl" : "./bin/errorGrowl"
   }
 }
