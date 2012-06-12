@@ -1,0 +1,20 @@
+{
+  "author": "Mark Willis <mark.w@immat.co.uk>",
+  "name": "errorGrowl",
+  "description": "tailing a file for specific errors and displaying a notification",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/markwillis82/errorGrowl.git"
+  },
+  "dependencies": {
+    "tailfd":"*",
+    "optimist":"*",
+    "growl":"*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
